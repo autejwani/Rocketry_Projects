@@ -4,6 +4,18 @@ Level 1 high power rocketry certification flight under the Tripoli Rocketry Asso
 
 ---
 
+## Checkpoints
+
+| Checkpoint | Status |
+|---|---|
+| OpenRocket simulation | Complete |
+| CAD | Complete |
+| Build | Complete |
+| Electronics setup | Complete |
+| Launch | Complete |
+
+---
+
 ## Flight Details
 
 | Item | Detail |
