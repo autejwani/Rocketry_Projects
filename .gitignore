@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# PlatformIO
+.pio/
+
+# KiCad
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+fp-info-cache
