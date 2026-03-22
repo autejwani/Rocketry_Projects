@@ -9,9 +9,9 @@ Level 2 high power rocketry certification flight under the Tripoli Rocketry Asso
 | Checkpoint | Status |
 |---|---|
 | Tripoli written exam | Not Started |
-| OpenRocket simulation | Not Started |
-| CAD | Not Started |
-| Build | In Progress |
+| OpenRocket simulation | Complete |
+| CAD | In Progress |
+| Build | Not Started |
 | Electronics setup | Not Started |
 | Dual deploy testing | Not Started |
 | Launch | Not Started |
