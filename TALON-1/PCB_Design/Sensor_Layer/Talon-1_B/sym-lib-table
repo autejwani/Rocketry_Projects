@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SPI_In")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/SPI_Pin_In/M20-7830346.kicad_sym")(options "")(descr ""))
+  (lib (name "SPI_Out")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/SPI_Pin_Out/M20-9980346.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C_In")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/I2C_Pin_In/M20-7830246.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C_Out")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/I2C_Pin_Out/PH2-04-UA.kicad_sym")(options "")(descr ""))
+  (lib (name "Barometer")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/Barometer/KiCADv6/2026-03-14_19-47-26.kicad_sym")(options "")(descr ""))
+  (lib (name "Magnetometer")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/Magnetometer/KiCADv6/2026-03-14_19-52-14.kicad_sym")(options "")(descr ""))
+  (lib (name "IMU")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/SensorBoard/Footprints/IMU/KiCADv6/2026-03-14_19-50-16.kicad_sym")(options "")(descr ""))
+)
