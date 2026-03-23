@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Buck_Converter")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/Buck_Converter/KiCADv6/2026-03-16_19-34-16.kicad_sym")(options "")(descr ""))
+  (lib (name "H_Bridge")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/H-Bridge/DRV8871DDAR.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C_In")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/I2C_Pin_In/M20-7830246.kicad_sym")(options "")(descr ""))
+  (lib (name "I2C_Out")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/I2C_Pin_Out/PH2-04-UA.kicad_sym")(options "")(descr ""))
+  (lib (name "SPI_In")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/SPI_Pin_In/M20-7830346.kicad_sym")(options "")(descr ""))
+  (lib (name "SPI_Out")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/SPI_Pin_Out/M20-9980346.kicad_sym")(options "")(descr ""))
+  (lib (name "SDCard")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/Sd Card/10067847-001RLF.kicad_sym")(options "")(descr ""))
+  (lib (name "Buzzer")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/Buzzer/CMT-8540S-SMT.kicad_sym")(options "")(descr ""))
+  (lib (name "SmallSD")(type "KiCad")(uri "C:/Users/autej/Documents/Projects/Rocketry_Electronics/Flight_Control_Board/Footprint/SD_Card_Small/KiCADv6/2026-03-16_23-11-40.kicad_sym")(options "")(descr ""))
+)
